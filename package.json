@@ -6,7 +6,7 @@
     "version": "1.0.2",
     "author": "Casey Garland",
     "license": "MIT",
-    "keywords": ["quote", "quotes", "sublime", "wrap"]
+    "keywords": ["quote", "quotes", "sublime", "wrap"],
     "engines": {
         "brackets": ">=0.24.0"
     }
