@@ -1,0 +1,12 @@
+{
+    "name": "caseygarland.brackets-quoter",
+    "title": "Better quotes for Brackets",
+    "description": "Make quotes work more like they do in Sublime. If text is selected and ' is pressed the selection will be wrapped in quotes",
+    "homepage": "https://github.com/yourname/yourproject",
+    "version": "1.0.0",
+    "author": "Casey Garland",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
