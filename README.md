@@ -1,3 +1,6 @@
+#This extension has been removed from the brackets extension registry
+You can get the behavior by turning on Edit > Auto Close Braces 
+
 # Brackets Quoter
 
 A Brackets extension that adds sublime style quotes to Brackets. 
